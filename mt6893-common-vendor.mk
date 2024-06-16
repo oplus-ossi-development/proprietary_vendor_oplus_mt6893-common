@@ -1034,6 +1034,7 @@ PRODUCT_COPY_FILES += \
     vendor/oplus/mt6893-common/proprietary/vendor/lib/libhwconfigurationutil.so:$(TARGET_COPY_OUT_VENDOR)/lib/libhwconfigurationutil.so \
     vendor/oplus/mt6893-common/proprietary/vendor/lib/libicd_decoder.so:$(TARGET_COPY_OUT_VENDOR)/lib/libicd_decoder.so \
     vendor/oplus/mt6893-common/proprietary/vendor/lib/libimagebuffer_wrapper.so:$(TARGET_COPY_OUT_VENDOR)/lib/libimagebuffer_wrapper.so \
+    vendor/oplus/mt6893-common/proprietary/vendor/lib/libwvhdcpext.so:$(TARGET_COPY_OUT_VENDOR)/lib/libwvhdcpext.so \
     vendor/oplus/mt6893-common/proprietary/vendor/lib/libimageio.so:$(TARGET_COPY_OUT_VENDOR)/lib/libimageio.so \
     vendor/oplus/mt6893-common/proprietary/vendor/lib/libimageio_plat_drv.so:$(TARGET_COPY_OUT_VENDOR)/lib/libimageio_plat_drv.so \
     vendor/oplus/mt6893-common/proprietary/vendor/lib/libimageio_plat_pipe.so:$(TARGET_COPY_OUT_VENDOR)/lib/libimageio_plat_pipe.so \
